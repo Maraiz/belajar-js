@@ -27,5 +27,3 @@ function hello (name, origin = "Bandung") {
 
     const indra = hello ("Indra");
     console.log(indra);
-
-    cos
