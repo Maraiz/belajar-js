@@ -3,5 +3,5 @@ myArray.reverse();
 console.log(myArray);
 
 const myArraysort = ['Maulana', 'Dicka', 'Dicky'];
-myArraysort.sort();
+myArraysort.sort    ();
 console.log(myArraysort);

@@ -14,5 +14,6 @@ function addEmployee(name, email, joinYear) {
     };
     employees.push(karyawanbaru);
 }
+
 addEmployee('Maulana', 'Maulana@dicoding.com', 2025);
 console.log(employees);
